@@ -9,14 +9,8 @@
 Through mentorship programs, workshops, and collaborative projects, they empower individuals to take on leadership roles and make a difference in their respective fields.
 
 #### CODSOFT DATA SCIENCE PROJECTS
-The CODSOFT data science projects consists of 3 sub-projects
 - **Titanic Survival prediction:** Building a model that predicts whether a
 passenger on the Titanic survived or not.
-- **Movie Rating Prediction:** Building a model that predicts the rating of a movie based on
-features like genre, director, and actors.
-- **Iris Flower Classification:** Developing a model that can classify iris
-flowers into different species based on their sepal and petal features.
-
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)
 
