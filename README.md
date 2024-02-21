@@ -14,3 +14,7 @@ passenger on the Titanic survived or not.
 features like genre, director, and actors.
 - **Iris Flower Classification:** Developing a model that can classify iris
 flowers into different species based on their sepal and petal features.
+
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)
+
