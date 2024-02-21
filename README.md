@@ -6,7 +6,7 @@
 
 **CODSOFT** believe in the power of leadership and its ability to drivepositive change. That's why they provide platforms and resources for their community members to develop their leadership skills. 
 
-Through mentorship programs, workshops, and collaborativeprojects, they empower individuals to take on leadership rolesand make a difference in their respective fields.
+Through mentorship programs, workshops, and collaborative projects, they empower individuals to take on leadership roles and make a difference in their respective fields.
 
 #### CODSOFT DATA SCIENCE PROJECTS
 The CODSOFT data science projects consists of 3 sub-projects
